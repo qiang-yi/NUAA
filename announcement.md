@@ -3,9 +3,15 @@
 ##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu 
 
 ## Announcement:##
+**Week 1**
 Day 2: July 4th (Tuesday), Jiangjun Road 2108<br>
 Day 3: July 5th (Wedensday), Computer lab at No.1 Building, 21st floor, Room 101<br>
-Day 3: July 6th (Thursday), Jiangjun Road 2108<br>
+Day 4: July 6th (Thursday), Jiangjun Road 2108<br>
+Day 5: July 7th (Friday), Computer lab at No.1 Building, 21st floor, Room 101<br>
+**Week 2**
+Day 6: July 10th (Tuesday) 18:00, Jiangjun Road 2108<br>
+Day 7: July 11th (Tuesday) 8:30, Computer lab at No.1 Building, 21st floor, Room 101<br>
+
 
 
 
