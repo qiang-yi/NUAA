@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{B3AC6F64-C249-4EF8-BA37-8A43FCC6D4FD}</MetaID><CreaDate>20110411</CreaDate><CreaTime>16131500</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20110411" Time="161316">ExtractByMask elev_ouach reclass_majo1 C:\Users\felixa\Documents\Manuscripts\GIS_labs_4ESRI\Final_SAR_data\elev_ouach</Process></lineage></DataProperties></Esri></metadata>
