@@ -20,3 +20,14 @@ Lab exercises submitted to **yiqiang@hawaii.edu** or **yi_qiang@hotmail.com**
 Installation of ArcGIS 10.3
 URL: https://pan.baidu.com/s/1jHNi042 
 Passcode: tacu
+
+
+Evaluation:
+5 lab exercise (18% * 5)
+
+- Finish the exercises in the computer lab
+- Finish by yourselves and don’t copy others
+- Submit answers no later than 11:59pm the next day
+- Submit in Microsoft Word file format 
+
+Attendance (10%)
